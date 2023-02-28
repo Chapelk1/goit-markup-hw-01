@@ -2,4 +2,4 @@
 - Має HTML розмітку
 - Код відформатований за допомогою prettier
 - Перевіренний валідатором
-- [Мій варіан розмітки сторінки](https:chapelk1.github.io/goit-markup-hw-01/).
+- [Мій варіан розмітки сторінки](chapelk1.github.io/goit-markup-hw-01/).
